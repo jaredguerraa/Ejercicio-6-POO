@@ -26,7 +26,7 @@ El sistema inicia con diez integraciones simuladas de diferentes proveedores ext
 
 Las integraciones se crean mediante el método `cargarIntegracionesIniciales()` de `GestorIntegraciones`.
 
-Los proveedores, configuraciones y latencias son simulados. No se hay conexiones reales con servicios externos ni se realizan transacciones financieras o certificaciones fiscales reales.
+Los proveedores, configuraciones y latencias son simulados. No hay conexiones reales con servicios externos ni se realizan transacciones financieras o certificaciones fiscales reales.
 
 ## Funcionalidades
 
